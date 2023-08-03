@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: VRRF_
+Class-Path: ij-1.54f.jar
+
